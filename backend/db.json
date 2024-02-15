@@ -1,0 +1,22 @@
+{
+  "pensamentos": [
+    {
+      "id": 1,
+      "conetudo": "This is the end Beautiful friend This is the end My only friend, the end Of our elaborate plans, the end Of everything that stands, the end No safety or surprise, the end I'll never look into your eyes again...",
+      "autoria": "The Doors",
+      "modelo": "modelo1"
+    },
+    {
+      "id": 2,
+      "conetudo": "Sing me to sleep Sing me to sleep And then leave me alone Don't try to wake me in the morning 'Cause I will be gone",
+      "autoria": "The Smiths",
+      "modelo": "modelo2"
+    },
+    {
+      "id": 3,
+      "conetudo": "I've been waiting for a guide to come and take me by the hand Could these sensations make me feel the pleasures of a normal man?",
+      "autoria": "Joy Division",
+      "modelo": "modelo3"
+    }
+  ]
+}
