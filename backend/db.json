@@ -3,7 +3,7 @@
     {
       "conteudo": "This is the end, beautiful friend... This is the end, my only friend the end...",
       "autoria": "The Doors",
-      "modelo": "modelo1",
+      "modelo": "modelo3",
       "id": 0
     },
     {
@@ -11,12 +11,6 @@
       "autoria": "Joy Division",
       "modelo": "modelo3",
       "id": 1
-    },
-    {
-      "conteudo": "Tommy can you hear me!",
-      "autoria": "The Who",
-      "modelo": "modelo2",
-      "id": 4
     },
     {
       "conteudo": "I feel unhappy, I feel so sad I've lost the best friend that I ever had",
