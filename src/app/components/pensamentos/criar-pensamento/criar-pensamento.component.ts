@@ -33,6 +33,7 @@ export class CriarPensamentoComponent implements OnInit {
     });
   }
 
+
   criarPensamento(){
     console.log("log: ", this.formulario.get('autoria')?.errors);
 
